@@ -1,5 +1,5 @@
 # MotiFormer [ICSOC 2024]
-The code and full paper are presented soon.
+
 Motif-based Linearizing Graph Transformer for Web API Recommendation 
 # Acknowledgements
 Some of the code in this paper references the [CosFormer](https://github.com/OpenNLPLab/cosFormer)
